@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdullahZahaiyan
 - 👀 I am interested in... development of the human mind and the same
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm currently learning... programming
+- 💞️ I’m looking to collaborate on all individuals and communities interested in combating ignorance and poverty
+- 📫 How to reach me ... zhyan@outlook.sa
 
 <!---
 AbdullahZahaiyan/AbdullahZahaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
